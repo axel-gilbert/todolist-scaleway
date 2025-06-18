@@ -63,7 +63,7 @@
         <div class="md:w-1/2 relative">
           <div class="w-full h-auto relative z-10">
             <img 
-              src="https://images.unsplash.com/photo-1611224923853-80b023f02d71?q=80&w=2940&auto=format&fit=crop"
+              src="https://todolist-s3.s3.fr-par.scw.cloud/image-todolist.avif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=SCWSWC9DN9A146612HH2%2F20250618%2Ffr-par%2Fs3%2Faws4_request&X-Amz-Date=20250618T065007Z&X-Amz-Expires=521993&X-Amz-Signature=23247bf3ac9cdd3bb0914e30804cfe66120241b0b6fefbbb1e687f4fede1630c&X-Amz-SignedHeaders=host&x-id=GetObject"
               alt="Interface TodoList" 
               class="w-full h-auto object-cover rounded-lg shadow-xl"
             />
